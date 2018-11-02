@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Front Page</string>
+
+    <!-- Main Page -->
+    <string name="posted_by">Posted By %1$s</string>
+
+    <!-- Content Descriptions -->
+    <string name="main_card_preview_description">Post Image</string>
+    <string name="up_vote_arrow_description">Upvote Arrow</string>
+    <string name="down_vote_arrow_description">Downvote Arrow</string>
 </resources>
